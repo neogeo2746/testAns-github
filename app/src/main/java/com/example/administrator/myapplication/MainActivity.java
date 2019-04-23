@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         int nState = 1;
         String sState = "boss";
+        Boolean isbb = true;
     }
 }
